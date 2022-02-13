@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1644774110 source:c:\users\1\documents\agus\agus\utn\2021\laboratorio\final practica\6-modelo parcial 2\modeloparcial2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"funciones.h"
+	"resoluciones.h"
+
+1644774726 c:\users\1\documents\agus\agus\utn\2021\laboratorio\final practica\6-modelo parcial 2\modeloparcial2\funciones.h
+
+1644774994 c:\users\1\documents\agus\agus\utn\2021\laboratorio\final practica\6-modelo parcial 2\modeloparcial2\resoluciones.h
+
